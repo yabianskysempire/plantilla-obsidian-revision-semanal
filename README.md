@@ -14,6 +14,14 @@ Dos plantillas de Obsidian en español para ordenar tu negocio con 30 minutos po
 
 Guía completa: [Plantilla gratis de revisión semanal](https://yabianskysempire.github.io/fundador/plantilla-revision-semanal-gratis.html).
 
+## Guías para sacarle provecho
+
+- [Cómo hacer una revisión semanal: guía paso a paso](https://yabianskysempire.github.io/fundador/articulos/como-hacer-una-revision-semanal.html)
+- [Nota diaria en Obsidian: plantilla y rutina de 5 minutos](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
+- [Método PARA en español: proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
+- [Dataview en Obsidian para principiantes](https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html)
+- [Todas las guías, por tema](https://yabianskysempire.github.io/fundador/guias.html)
+
 ## La versión completa
 
 El [Sistema Operativo del Fundador](https://yabianskysempire.github.io/fundador/sistema-operativo-fundador.html) es una bóveda de Obsidian en español con 28 notas y 9 plantillas, un mini CRM, un registro de decisiones y un tablero de métricas.
