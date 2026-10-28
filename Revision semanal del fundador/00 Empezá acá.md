@@ -8,7 +8,7 @@ Dos plantillas de Obsidian en español para arrancar con la rutina que sostiene 
 ## Cómo usarlas
 1. Descargá Obsidian gratis en obsidian.md.
 2. Abrí esta carpeta como bóveda (en el selector de bóvedas, **Abrir una carpeta como bóveda**), o copiá la carpeta "Plantillas" a tu bóveda.
-3. En **Configuración → Complementos principales**, activá **Plantillas** (carpeta `Plantillas`) y **Notas diarias** (plantilla `Plantillas/Nota diaria`).
+3. En **Ajustes → Complementos principales** (el ícono del engranaje), activá **Plantillas** (carpeta `Plantillas`) y **Notas diarias** (plantilla `Plantillas/Nota diaria`).
 4. Cada viernes: nueva nota → insertar plantilla → Revisión semanal.
 
 ## ¿Querés el sistema completo?

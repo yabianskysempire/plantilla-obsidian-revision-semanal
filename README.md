@@ -10,7 +10,7 @@ Dos plantillas de Obsidian en español para ordenar tu negocio con 30 minutos po
 
 1. Descargá Obsidian gratis desde [obsidian.md](https://obsidian.md).
 2. Descargá esta carpeta (botón **Code → Download ZIP**) o el [zip del sitio](https://yabianskysempire.github.io/fundador/descargas/plantilla-revision-semanal-gratis.zip), y abrí la carpeta `Revision semanal del fundador` como bóveda.
-3. En **Configuración → Complementos principales**, activá **Plantillas** y **Notas diarias**, que ya vienen con Obsidian.
+3. En **Ajustes → Complementos principales** (el ícono del engranaje), activá **Plantillas** y **Notas diarias**, que ya vienen con Obsidian.
 
 Guía completa: [Plantilla gratis de revisión semanal](https://yabianskysempire.github.io/fundador/plantilla-revision-semanal-gratis.html).
 
