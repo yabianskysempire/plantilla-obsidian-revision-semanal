@@ -20,6 +20,8 @@ Guía completa: [Plantilla gratis de revisión semanal](https://yabianskysempire
 - [Nota diaria en Obsidian: plantilla y rutina de 5 minutos](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
 - [Método PARA en español: proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
 - [Dataview en Obsidian para principiantes](https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html)
+- [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
+- [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
 - [Todas las guías, por tema](https://yabianskysempire.github.io/fundador/guias.html)
 
 ## La versión completa
