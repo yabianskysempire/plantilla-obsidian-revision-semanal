@@ -23,6 +23,7 @@ Guía completa: [Plantilla gratis de revisión semanal](https://yabianskysempire
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
 - [Todas las guías, por tema](https://yabianskysempire.github.io/fundador/guias.html)
+- [Recursos de Obsidian en español: ayuda oficial, traducción y guías](https://github.com/yabianskysempire/obsidian-en-espanol)
 
 ## La versión completa
 
